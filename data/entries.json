@@ -1,0 +1,490 @@
+[
+  {
+    "repo": "langgenius/dify",
+    "category": "ai-write",
+    "description": "Platform for building LLM apps with workflows and RAG.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ollama/ollama",
+    "category": "ai-write",
+    "description": "Run large language models locally.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "open-webui/open-webui",
+    "category": "ai-write",
+    "description": "Self-hosted web interface for local and hosted language models.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Significant-Gravitas/AutoGPT",
+    "category": "ai-write",
+    "description": "Platform for building and running AI agents that automate work.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "adobe-fonts/source-code-pro",
+    "category": "assets",
+    "description": "Open-source monospaced font family from Adobe.",
+    "license": "OFL-1.1",
+    "verified": "2026-10-18",
+    "last_commit": "2025-10-28"
+  },
+  {
+    "repo": "google/material-design-icons",
+    "category": "assets",
+    "description": "Material Design icons from Google.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-09"
+  },
+  {
+    "repo": "lucide-icons/lucide",
+    "category": "assets",
+    "description": "Community-run icon library, a fork of Feather.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "tabler/tabler-icons",
+    "category": "assets",
+    "description": "Free, open-source SVG icons with an MIT license.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "twbs/icons",
+    "category": "assets",
+    "description": "Official open-source SVG icon library for Bootstrap.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "audacity/audacity",
+    "category": "audio",
+    "description": "Free, cross-platform audio editor and recorder.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "AzuraCast/AzuraCast",
+    "category": "audio",
+    "description": "Self-hosted web radio and podcast station.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "openai/whisper",
+    "category": "audio",
+    "description": "General-purpose speech recognition model.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-31"
+  },
+  {
+    "repo": "11ty/buildawesome",
+    "category": "blog",
+    "description": "Simple static site generator in JavaScript.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "directus/directus",
+    "category": "blog",
+    "description": "Data platform and headless CMS for any SQL database.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "getpelican/pelican",
+    "category": "blog",
+    "description": "Static site generator in Python.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "gohugoio/hugo",
+    "category": "blog",
+    "description": "Fast static site generator written in Go.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "jekyll/jekyll",
+    "category": "blog",
+    "description": "Blog-aware static site generator, used by GitHub Pages.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "keystonejs/keystone",
+    "category": "blog",
+    "description": "Headless CMS and GraphQL API for Node.js.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-28"
+  },
+  {
+    "repo": "payloadcms/payload",
+    "category": "blog",
+    "description": "Headless CMS and app framework built with TypeScript and Next.js.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "sanity-io/sanity",
+    "category": "blog",
+    "description": "Real-time headless CMS with a customizable studio.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "strapi/strapi",
+    "category": "blog",
+    "description": "Open-source headless CMS in JavaScript.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "TryGhost/Ghost",
+    "category": "blog",
+    "description": "Professional publishing platform for blogs and newsletters.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "wagtail/wagtail",
+    "category": "blog",
+    "description": "Django-based CMS focused on flexibility and editor experience.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "withastro/astro",
+    "category": "blog",
+    "description": "Web framework for content-driven sites.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "WordPress/WordPress",
+    "category": "blog",
+    "description": "The WordPress content management system.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "blender/blender",
+    "category": "design",
+    "description": "Free and open-source 3D creation suite.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "excalidraw/excalidraw",
+    "category": "design",
+    "description": "Virtual whiteboard for sketching hand-drawn style diagrams.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "jgraph/drawio",
+    "category": "design",
+    "description": "Diagramming tool that runs in the browser or as a desktop app.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "mermaid-js/mermaid",
+    "category": "design",
+    "description": "Generate diagrams from text, like Markdown for charts.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "penpot/penpot",
+    "category": "design",
+    "description": "Open-source design and prototyping platform for design and code teams.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "plantuml/plantuml",
+    "category": "design",
+    "description": "Create diagrams from plain text descriptions.",
+    "license": "LGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "tldraw/tldraw",
+    "category": "design",
+    "description": "Infinite canvas SDK and whiteboard app.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "AUTOMATIC1111/stable-diffusion-webui",
+    "category": "image",
+    "description": "Web interface for Stable Diffusion image generation.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-02"
+  },
+  {
+    "repo": "Comfy-Org/ComfyUI",
+    "category": "image",
+    "description": "Node-based interface for image, video and audio generation models.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "danielgatis/rembg",
+    "category": "image",
+    "description": "Remove image backgrounds with a command-line tool or library.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-10"
+  },
+  {
+    "repo": "GNOME/gimp",
+    "category": "image",
+    "description": "Cross-platform image editor, GNU Image Manipulation Program.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "huggingface/diffusers",
+    "category": "image",
+    "description": "Library of pretrained diffusion models for images, audio and video.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "invoke-ai/InvokeAI",
+    "category": "image",
+    "description": "Creative engine for Stable Diffusion models with a polished web UI.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "KDE/krita",
+    "category": "image",
+    "description": "Free digital painting program.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "lllyasviel/Fooocus",
+    "category": "image",
+    "description": "Simple image generation tool built on Stable Diffusion XL.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2025-12-01"
+  },
+  {
+    "repo": "knadh/listmonk",
+    "category": "newsletter",
+    "description": "Self-hosted newsletter and mailing list manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "mautic/mautic",
+    "category": "newsletter",
+    "description": "Open-source marketing automation including email campaigns.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "phpList/phplist3",
+    "category": "newsletter",
+    "description": "Open-source newsletter and email campaign manager.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-24"
+  },
+  {
+    "repo": "usesend/useSend",
+    "category": "newsletter",
+    "description": "Open-source email sending for products and newsletters.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "AppFlowy-IO/AppFlowy",
+    "category": "workflow",
+    "description": "Open-source Notion alternative built with Flutter and Rust.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-08"
+  },
+  {
+    "repo": "makeplane/plane",
+    "category": "workflow",
+    "description": "Open-source project management tool for tasks, cycles and docs.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "nextcloud/server",
+    "category": "workflow",
+    "description": "Self-hosted cloud for files, calendar, contacts and docs.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "siyuan-note/siyuan",
+    "category": "workflow",
+    "description": "Privacy-first personal knowledge management system.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "usememos/memos",
+    "category": "workflow",
+    "description": "Self-hosted, lightweight note-taking service.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "ianstormtaylor/slate",
+    "category": "write",
+    "description": "Customizable framework for building rich text editors.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "languagetool-org/languagetool",
+    "category": "write",
+    "description": "Open-source grammar, style and spell checker for many languages.",
+    "license": "LGPL-2.1",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "laurent22/joplin",
+    "category": "write",
+    "description": "Note-taking and to-do app with sync and end-to-end encryption.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "logseq/logseq",
+    "category": "write",
+    "description": "Privacy-first outliner and knowledge base.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "marktext/marktext",
+    "category": "write",
+    "description": "Simple and elegant Markdown editor for desktop.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "outline/outline",
+    "category": "write",
+    "description": "Fast, collaborative team knowledge base.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "streetwriters/notesnook",
+    "category": "write",
+    "description": "End-to-end encrypted note-taking app.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "toeverything/AFFiNE",
+    "category": "write",
+    "description": "Workspace that combines docs, whiteboards and databases.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-12"
+  },
+  {
+    "repo": "TriliumNext/Trilium",
+    "category": "write",
+    "description": "Hierarchical note-taking app for building a large personal knowledge base.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "TriliumNext/Trilium",
+    "category": "write",
+    "description": "Maintained continuation of Trilium Notes, a hierarchical note-taking app.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ueberdosis/tiptap",
+    "category": "write",
+    "description": "Headless rich text editor framework for the web.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "vale-cli/vale",
+    "category": "write",
+    "description": "Command-line prose linter with customizable style rules.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  }
+]

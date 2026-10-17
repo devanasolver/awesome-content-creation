@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "DRAFT",
+  "OUTLINE",
+  "PODCAST",
+  "EPISODE",
+  "BLOG",
+  "MARKDOWN",
+  "THUMBNAIL",
+  "PALETTE",
+  "FONT",
+  "VECTOR",
+  "EDIT",
+  "PUBLISH",
+  "NEWSLETTER",
+  "STORY",
+  "IMAGE",
+  "VOICE"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Content Creation",
+  ""
+ ],
+ "title_size": 88,
+ "sub1": "WRITING  |  IMAGES  |  AUDIO",
+ "sub2": "DESIGN  |  BLOGS  |  PUBLISHING",
+ "foot": "Open-source tools for creators, each checked for license and activity"
+}

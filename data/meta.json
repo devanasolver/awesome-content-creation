@@ -1,0 +1,60 @@
+{
+ "categories": [
+  {
+   "id": "write",
+   "title": "Writing and editing",
+   "anchor": "writing-and-editing",
+   "blurb": "Editors, grammar tools and long-form writing apps."
+  },
+  {
+   "id": "ai-write",
+   "title": "AI writing and research",
+   "anchor": "ai-writing-and-research",
+   "blurb": "LLM tools for drafting and research. Always edit the output yourself."
+  },
+  {
+   "id": "image",
+   "title": "Image creation and editing",
+   "anchor": "image-creation-and-editing",
+   "blurb": "Image editors and generation front ends."
+  },
+  {
+   "id": "design",
+   "title": "Design, graphics and diagrams",
+   "anchor": "design-graphics-and-diagrams",
+   "blurb": "Vector tools, mockups and diagrams."
+  },
+  {
+   "id": "audio",
+   "title": "Podcast and audio",
+   "anchor": "podcast-and-audio",
+   "blurb": "Record, edit and publish audio."
+  },
+  {
+   "id": "blog",
+   "title": "Blogging and CMS",
+   "anchor": "blogging-and-cms",
+   "blurb": "Sites and CMS for publishing."
+  },
+  {
+   "id": "newsletter",
+   "title": "Newsletters and email publishing",
+   "anchor": "newsletters-and-email-publishing",
+   "blurb": "Send and grow a newsletter."
+  },
+  {
+   "id": "workflow",
+   "title": "Notes, planning and knowledge",
+   "anchor": "notes-planning-and-knowledge",
+   "blurb": "Capture ideas and organize projects."
+  },
+  {
+   "id": "assets",
+   "title": "Fonts, icons and free media tooling",
+   "anchor": "fonts-icons-and-free-media-tooling",
+   "blurb": "Libraries that help you ship good-looking work."
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Content Creation</h1>\n\n<p align=\"center\"><img src=\"assets/banner.png\" alt=\"Awesome Content Creation\" width=\"100%\"></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-content-creation/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-content-creation\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-content-creation/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-content-creation?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://buymeacoffee.com/isaac49\"><img src=\"https://img.shields.io/badge/Buy%20me%20a%20coffee-isaac49-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black\" alt=\"Buy me a coffee\"></a>\n</p>\n\n> Open-source tools for writers, designers, podcasters and creators: writing, images, audio, design, blogging and publishing. Every entry shows its license.\n\n**Rules of this list:** every repo exists, is public, is not archived, states a license and has had a commit in the last year. One plain sentence each. Star counts and claims are the authors' own, we did not test every tool. Checked 2026-10-18. See [CONTRIBUTING.md](CONTRIBUTING.md).",
+ "footer": "## How to choose\n\n- **Credit your sources.** Open-source tools can still output things you need to credit or clear.\n- **Disclose AI use** where your platform or audience expects it.\n- **Edit AI drafts.** Facts and tone need your check.\n- **Check the license** before you use a tool or its output for client work.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One entry per pull request, plain words, real sources only.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver). Listings follow the rules in CONTRIBUTING.\n\n## Sponsor me\n\nIf this list is useful, [buy me a coffee](https://buymeacoffee.com/isaac49).\n"
+}
